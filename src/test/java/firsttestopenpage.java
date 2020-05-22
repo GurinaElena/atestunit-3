@@ -14,9 +14,10 @@ public class firsttestopenpage {
     private WebDriver driver;
 
     @BeforeAll
-    static void setUpAll() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\Desktop\\chromedriver.exe");
-    }
+   static void setUpAll () {
+        System.setProperty("webdriver.chrome.driver", "C:\\tmp\\chromedriver.exe");
+
+     }
 
          @Test
         void shouldTest() {

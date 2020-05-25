@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/b2chutr3dutndmar/branch/master?svg=true)](https://ci.appveyor.com/project/GurinaElena/atestunit3/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/gj1ytt414l3bvoh4/branch/master?svg=true)](https://ci.appveyor.com/project/GurinaElena/atestunit-3/branch/master)
+
